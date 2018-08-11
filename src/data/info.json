@@ -2,63 +2,65 @@
   "code": "https://github.com/jekorx/resume",
   "github": "https://github.com/jekorx",
   "info": {
-    "name": "***",
-    "job": "***",
-    "position": "**",
+    "name": "[姓名]",
+    "job": "[职业]",
+    "position": "[所在地]",
     "basic": {
       "sex": "*",
       "birthday": "****年*月",
-      "edu": "**",
-      "major": "****"
+      "edu": "[学历]",
+      "major": "[专业]"
     },
     "contact": {
-      "phone": "***********",
-      "email": "******@***.**"
+      "phone": "[电话]",
+      "email": "[邮箱]"
     },
     "skills": [
-      { "name": "html", "num": 90 }
+      { "name": "[专业技能]", "num": 100 }
     ],
-    "self": "***"
+    "self": "[自我介绍]"
   },
   "detail": {
     "edus": [
       {
-        "school": "****",
-        "startTime": "****/**",
-        "endTime": "****/**",
-        "major": "**",
-        "record": "**",
-        "degree": "**"
+        "school": "[学校]",
+        "startTime": "[入学时间]",
+        "endTime": "[毕业时间]",
+        "major": "[专业]",
+        "record": "[学历]",
+        "degree": "[学位]"
       }
     ],
     "jobs": [
       {
-        "company": "*******",
-        "startTime": "****/**",
-        "endTime": "**",
-        "position": "**",
+        "company": "[公司]",
+        "startTime": "[入职时间]",
+        "endTime": "[离职时间]",
+        "position": "[职位]",
         "duties": [
-          "***"
+          "[职责1]",
+          "[职责2]",
+          "[...]"
         ]
       }
     ],
     "projects": [
       {
-        "name": "****",
-        "startTime": "****/**",
-        "endTime": "**",
-        "duty": "***",
-        "desc": "",
-        "recom": "***",
-        "stack": "***"
+        "name": "[项目名]",
+        "startTime": "[开始时间]",
+        "endTime": "[结束时间]",
+        "duty": "[职责]",
+        "desc": "[目标]",
+        "recom": "[项目]",
+        "stack": "[技术栈]"
       }
     ],
     "personal": [
       {
-        "stack": "***",
+        "stack": "[技术栈]",
         "url": "https://github.com/jekorx",
-        "desc": "***",
-        "display": ""
+        "desc": "[描述]",
+        "display": "[演示链接]"
       }
     ]
   }
