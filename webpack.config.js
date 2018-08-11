@@ -76,7 +76,7 @@ const config = {
     // 自动生成一个html文件、引入相关静态资源、bundle.js等功能
     new HTMLWebpackPlugin({
       // 标题
-      title: 'Resume',
+      title: 'Bio',
       // 模版
       template: resolve('src/index.html'),
       // 给定的图标路径，可将其添加到输出html中
