@@ -1,0 +1,65 @@
+{
+  "code": "https://github.com/jekorx/resume",
+  "github": "https://github.com/jekorx",
+  "info": {
+    "name": "***",
+    "job": "***",
+    "position": "**",
+    "basic": {
+      "sex": "*",
+      "birthday": "****年*月",
+      "edu": "**",
+      "major": "****"
+    },
+    "contact": {
+      "phone": "***********",
+      "email": "******@***.**"
+    },
+    "skills": [
+      { "name": "html", "num": 90 }
+    ],
+    "self": "***"
+  },
+  "detail": {
+    "edus": [
+      {
+        "school": "****",
+        "startTime": "****/**",
+        "endTime": "****/**",
+        "major": "**",
+        "record": "**",
+        "degree": "**"
+      }
+    ],
+    "jobs": [
+      {
+        "company": "*******",
+        "startTime": "****/**",
+        "endTime": "**",
+        "position": "**",
+        "duties": [
+          "***"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "****",
+        "startTime": "****/**",
+        "endTime": "**",
+        "duty": "***",
+        "desc": "",
+        "recom": "***",
+        "stack": "***"
+      }
+    ],
+    "personal": [
+      {
+        "stack": "***",
+        "url": "https://github.com/jekorx",
+        "desc": "***",
+        "display": ""
+      }
+    ]
+  }
+}
