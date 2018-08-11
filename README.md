@@ -11,3 +11,4 @@
 # --prefix 为构建好的项目目录
 git subtree push --prefix dist origin gh-pages
 ```
+6、查看https://[你的github名].github.io/[该项目在github上的项目名，默认bio]
